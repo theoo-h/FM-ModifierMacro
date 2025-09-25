@@ -1,0 +1,7 @@
+-cp src
+
+--macro ModifierMacro.init()
+
+--main Main
+--interp
+# --cpp bin/cpp
